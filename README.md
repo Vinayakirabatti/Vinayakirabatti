@@ -89,7 +89,6 @@
 <a href="https://www.oracle.com/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
 
-&nbsp;
 <h3 align="left">Cloud:</h3>
 <p align="left">
 <a href="https://firebase.google.com/" target="_blank"> 
