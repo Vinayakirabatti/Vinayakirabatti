@@ -84,11 +84,9 @@
 <p align="left"> 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
 <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/> </a> 
-
-&nbsp;
 <a href="https://www.mysql.com/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-&nbsp;
+
 <a href="https://www.oracle.com/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
 
@@ -106,11 +104,8 @@
 
 <h3 align="left">Machine learning:</h3>
 <p align="left"> 
-
-&nbsp;
 <a href="https://opencv.org/" target="_blank"> 
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-
 &nbsp;
 <a href="https://scikit-learn.org/" target="_blank"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
@@ -141,9 +136,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayakirabatti&label=Profile%20views&color=0e75b6&style=flat" alt="vinayakirabatti" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinayakirabatti" alt="vinayakirabatti" /></a> </p>
+&nbsp;
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinayakirabatti&show_icons=true&locale=en&layout=compact" alt="vinayakirabatti" /></p>
-
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinayakirabatti&show_icons=true&locale=en" alt="vinayakirabatti" /></p>
+<br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinayakirabatti&" alt="vinayakirabatti" /></p>
